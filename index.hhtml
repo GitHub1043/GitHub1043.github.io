@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<style>
+
+body	{background-color:yellow;}
+h1		{text-align:center; font-size:500%; color:green; font-family:verdana;}
+h4		{text-align:center; color:green;}
+
+</style>
+</head>
+
+<body>
+<h1>Cheetah</h1>
+
+<img src="https://seaworld.com/-/media/seaworld-dotorg/images/infobooks/cheetahs/section-content/diet-and-eating-habits/pic-sw-cheetah-diet-eating-06.ashx?hash=3645114E7DB19290015B64CD2A49FC131BE9798F&version=1_201811290513&la=en" width="700" height="300" alt="Cheetah running">
+
+<h1 style="font-size:200%;">Cheetah Information</h1>
+
+<h4>Speed</h4>
+<p>Fastest mammal on land, the cheetah can reach speeds of 60 or perhaps even 70 <sub>miles</sub> (97 or 113 <sub>kilometers</sub>) an hour over short distances. It usually chases its prey at <em>only about half that speed</em>, however. After a chase, a cheetah needs half an hour to catch its breath before it can eat.</p>
+<a href="https://www.nationalgeographic.org/media/cheetah-speed/">Video explanation of cheetah biology explains why they run so fast</a>
+<hr>
+
+<h4>Hunting</h4>
+<p>The cheetah's excellent eyesight helps it find prey during the day. <b>The cheetah is hard to see</b> because its spotted coat blends with the tall, dry grass of the plains. <i>Suddenly, the cheetah makes a lightning dash. It knocks its prey to the ground and then bites its throat.</i> Once found throughout Asia and Africa, cheetahs today are racing toward extinction. Loss of habitat and declining numbers of their prey combine to threaten the future of these cats. <strong>Cheetahs live and hunt mainly in open grasslands and bushy areas in parts of Africa and the Middle East.</strong> <br>Cheetahs eat small- to medium-size animals, such as hares, impalas, wildebeest calves, and gazelles.</p>
+<a href="https://africafreak.com/what-do-cheetahs-eat">Read about the Cheetah's diet</a>
+<hr>
+
+<h4>Big Cats</h4>
+<p>Because of their size, strength, and predatory skills, cheetahs are considered one of the “big cats.” Tigers, lions, leopards, jaguars, and cougars are also part of this grouping. <br>Take the big cat quiz to see how much you know about these fierce felines. Then, just for fun, see which wild cat you’re most like with our personality quiz.</p>
+<a href="https://www.nationalgeographic.com/animals/mammals/group/big-cats/">More about Big Cats</a><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/4panthera3.0.png" alt="Big Cats">
+<hr>
+
+<br><br><br>
+<h4 style="text-align:left;">Poem</h4>
+<h5>"Cheetah"</h5>
+<pre>
+Lovely spotted yellow beast
+Racing through the open feast
+Knowing when and where to hunt
+Claws are ready, for their final jump
+
+Animals like these, who roam the wild
+Nurture their young, like us, our child
+They know the truth, about themselves
+Living in a jungle of lifetime dwells
+
+They hunt their victims with speed and grace
+Showing their agility on this open space
+And when their young, have passed the test
+Only then, will the cheetah, lay to rest.
+<pre>
+
+</body>
+
+</html>
